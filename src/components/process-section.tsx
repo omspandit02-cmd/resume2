@@ -78,9 +78,9 @@ const ProcessSection = () => {
           </p>
         </div>
         <div className="bg-[#1A1A1A] rounded-md relative h-64 w-full sm:w-80 mx-auto sm:mx-0 border border-gray-800">
-          <p className="text-6xl absolute top-10 left-10">2+</p>
-          <p className="absolute bottom-14 right-10">Years</p>
-          <p className="absolute bottom-8 right-10 text-lg">of experience</p>
+          <p className="text-6xl absolute top-10 left-10">Fresher</p>
+          <p className="absolute bottom-14 right-10"></p>
+          <p className="absolute bottom-8 right-10 text-lg"></p>
         </div>
         <div className="bg-[#fff] text-black rounded-md relative h-64 w-full sm:w-80 mx-auto sm:mx-0 border border-gray-800">
           <p className="text-6xl absolute top-10 left-10">15+</p>
